@@ -26,5 +26,5 @@ delivered development changes for the next release```, also known as the“integ
 When the source code in the develop branch reaches a stable point and is ready to be released, all of the changes 
 should be merged back into master somehow and then tagged with a release number
 
-6
-# eng67-webabb-ci
+7
+
